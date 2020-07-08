@@ -6,17 +6,12 @@ Users can use the raw data sandbox to see an aggregated sample of the data and d
 
 The sandbox files are available on a public AWS S3 bucket:
 
-Readme.pdf
-https://fhwa-sandbox-data.s3.amazonaws.com/Readme.pdf
+[Readme.pdf](https://fhwa-sandbox-data.s3.amazonaws.com/Readme.pdf)
 
-Sandbox_Polygons_Shapefile.zip
-https://fhwa-sandbox-data.s3.amazonaws.com/Polygons+Shapefile/Sandbox_Polygons_Shapefile.zip
+[Sandbox_Polygons_Shapefile.zip](https://fhwa-sandbox-data.s3.amazonaws.com/Polygons+Shapefile/Sandbox_Polygons_Shapefile.zip)
 
-Person_Location_Dataset.zip
-https://fhwa-sandbox-data.s3.amazonaws.com/Person+Location+Dataset/Person_Location_Dataset.zip
+[Person_Location_Dataset.zip](https://fhwa-sandbox-data.s3.amazonaws.com/Person+Location+Dataset/Person_Location_Dataset.zip)
 
-Passenger Vehicle Data.zip
-https://fhwa-sandbox-data.s3.amazonaws.com/Vehicle+Trip+Location+Dataset/Passenger+Vehicles/Passenger_Vehicle_Data.zip
+[Passenger Vehicle Data.zip](https://fhwa-sandbox-data.s3.amazonaws.com/Vehicle+Trip+Location+Dataset/Passenger+Vehicles/Passenger_Vehicle_Data.zip)
 
-Truck Data.zip
-https://fhwa-sandbox-data.s3.amazonaws.com/Vehicle+Trip+Location+Dataset/Trucks/Truck_Data.zip
+[Truck Data.zip](https://fhwa-sandbox-data.s3.amazonaws.com/Vehicle+Trip+Location+Dataset/Trucks/Truck_Data.zip)
